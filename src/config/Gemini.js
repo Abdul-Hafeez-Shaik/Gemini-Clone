@@ -1,7 +1,7 @@
 // To run this code you need to install the following dependencies:
 // npm install @google/genai mime
 // npm install -D @types/node
-// REDACTED_API_KEY
+// AIzaSyAWWIZ7mNxx7s6FMXO4WT8cY0l8u5J8FUg
 
 // To run this code you need to install the following dependencies:
 // npm install @google/genai mime
